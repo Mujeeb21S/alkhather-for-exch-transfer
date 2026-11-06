@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "الخضر للصرافة والتحويلات",
+      "hasCanvas": false,
+      "bodyTextLen": 1317,
+      "bodyTextHash": "f667c12928e8ea0001e6452367aa314cac4515c1cbfdb65e1500665ab122ea0b",
+      "bodyTextPrefix": "تخطي إلى المحتوى ترخيص البنك المركزي اليمني رقم 486 712720300 وا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/static-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "الخضر للصرافة والتحويلات",
+      "hasCanvas": false,
+      "bodyTextLen": 1261,
+      "bodyTextHash": "955a3a3e78f0f6a11fbed2a254cabf5e8873b41ca3ca05efb4072660406d1252",
+      "bodyTextPrefix": "تخطي إلى المحتوى ترخيص البنك المركزي اليمني رقم 486 712720300 وا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/static-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/static-home.json"
+}

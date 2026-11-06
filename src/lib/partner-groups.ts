@@ -1,0 +1,30 @@
+export const PARTNER_GROUPS = [
+  {
+    kind: "international",
+    titleAr: "شبكات دولية وعالمية",
+    titleEn: "International networks",
+    bodyAr: "شراكات مباشرة أعلنتها الشركة مع بنوك وشركات صرافة وخدمات تحويل تغطي تحويلات من دول متعددة وإليها.",
+    bodyEn: "Direct partnerships stated by the company with banks, exchange houses, and transfer services covering movements to and from multiple countries.",
+  },
+  {
+    kind: "regional",
+    titleAr: "شبكات إقليمية خليجية",
+    titleEn: "Regional Gulf networks",
+    bodyAr: "شبكات وتحويلات المغتربين من دول الخليج عبر بنوك وخدمات حددتها الشركة.",
+    bodyEn: "Expatriate transfer networks from the Gulf, through the banks and services named by the company.",
+  },
+  {
+    kind: "local_licensed",
+    titleAr: "شبكات محلية مرخصة من البنك المركزي",
+    titleEn: "Local networks licensed by the Central Bank",
+    bodyAr: "شبكات محلية تصفها الشركة بأنها مرخصة من البنك المركزي اليمني.",
+    bodyEn: "Local networks the company describes as licensed by the Central Bank of Yemen.",
+  },
+  {
+    kind: "local_circular",
+    titleAr: "شبكات محلية أخرى واردة في تعميمات البنك المركزي",
+    titleEn: "Other local networks named in Central Bank circulars",
+    bodyAr: "شبكات محلية تذكر الشركة أنها وردت في تعميمات البنك المركزي. هذا التصنيف لا يعني أنها ضمن قائمة المرخصين أعلاه.",
+    bodyEn: "Local networks the company says appear in Central Bank circulars. This group is not presented as the licensed list above.",
+  },
+] as const;
